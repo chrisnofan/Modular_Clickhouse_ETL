@@ -1,0 +1,7 @@
+Running pipeline at 10/07/2024 23:25:16.66 
+44741 rows Successfully extracted
+44741 rows loaded to staging successfully
+Stored procedure executed
+Pipeline executed successfully for 2015-01-16
+Pipeline completed at 10/07/2024 23:25:21.91 
+ 
